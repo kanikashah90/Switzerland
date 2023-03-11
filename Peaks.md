@@ -1,10 +1,10 @@
 # Peaks
 
-[Matterhorn Mountain](#matterhorn-mountain)
-[Jungfraujoch](#jungfraujoch)
-[Mount Eiger](#mount-eiger)
-[Schilthorn](#schilthorn)
-[Gornergrat](#gornergrat)
+- [Matterhorn Mountain](#matterhorn-mountain)
+- [Jungfraujoch](#jungfraujoch)
+- [Mount Eiger](#mount-eiger)
+- [Schilthorn](#schilthorn)
+- [Gornergrat](#gornergrat)
 
 ## Matterhorn Mountain
 

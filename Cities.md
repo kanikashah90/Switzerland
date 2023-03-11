@@ -1,13 +1,13 @@
 # Cities
 
-[Zurich](#zurich)
-[St. Gallen and Appenzell](#st-gallen-and-appenzell)
-[Lucerne](#lucerne)
-[Bern](#bern)
-[Interlaken and the Jungfraujoch](#interlaken-and-the-jungfraujoch)
-[Geneva](#geneva)
-[Lugano](#lugano)
-[Valle Versazca](#valle-versazca)
+- [Zurich](#zurich)
+- [St. Gallen and Appenzell](#st-gallen-and-appenzell)
+- [Lucerne](#lucerne)
+- [Bern](#bern)
+- [Interlaken and the Jungfraujoch](#interlaken-and-the-jungfraujoch)
+- [Geneva](#geneva)
+- [Lugano](#lugano)
+- [Valle Versazca](#valle-versazca)
 
 ## Zurich
 

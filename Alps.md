@@ -1,7 +1,7 @@
 # Alps
 
-[Lauterbrunnen](#lauterbrunnen)
-[Gimmelwald](#gimmelwald)
+- [Lauterbrunnen](#lauterbrunnen)
+- [Gimmelwald](#gimmelwald)
 
 ## Lauterbrunnen
 
