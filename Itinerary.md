@@ -99,11 +99,11 @@ San Carlo Garni - https://www.booking.com/Share-EMAb7V $185.02
 
 (June 28 - July 2) (4 nights)
 
-https://www.booking.com/Share-580yDuy $523.28 (w/o breakfast)
+BASE Cafe - https://www.booking.com/Share-580yDuy $523.28 (w/o breakfast)
 
-https://www.booking.com/Share-tEdtgs $1,175.67 (in Wengen)
+Hotel Jungfraublick - https://www.booking.com/Share-tEdtgs $1,175.67 (in Wengen)
 
-https://www.booking.com/Share-MdAPsS $1,102.99 (in Wengen)
+Hotel Regina - https://www.booking.com/Share-MdAPsS $1,102.99 (in Wengen)
 
 ## Zermatt
 
