@@ -16,14 +16,7 @@
 ### 1.2
 
 - [City] (3 nights) Zurich + Appenzell
-- [City] (1 night) Geneva (Side of France)
-- [Alp] (4 nights) Lauterbrunnen [Peak] Jungfraujoch
-- [Alp] (2 nights) Zermatt, [Peak] Matterhorn
-
-### 1.3
-
-- [City] (3 nights) Zurich + Appenzell
-- [City] (1 night) Lugano (Side of Italy)
+- [City] (1 night) Geneva (Side of France) / Lugano (Side of Italy)
 - [Alp] (4 nights) Lauterbrunnen [Peak] Jungfraujoch
 - [Alp] (2 nights) Zermatt, [Peak] Matterhorn
 
