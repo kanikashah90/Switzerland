@@ -2,12 +2,42 @@
 
 10
 
-# Rought plan
+# Rough plan
 
-- [City] (3 nights) Zurich + Appenzell (June 26 - June 28) (June 27 Explore) (July 5 - July 6) (July 5 explore)
+- [City] (2 nights) Zurich + Appenzell (June 26 - June 28) (June 27 Explore)
+
+  Hotel Neufeld - https://www.booking.com/Share-ACNuVr $393.27
+
 - [Alp] (4 nights) Lauterbrunnen [Peak] Jungfraujoch (Travel + June 28 - July 2) (July 29, 30, 1 Explore)
+
+  Hotel Regina - https://www.booking.com/Share-MdAPsS $1116(in Wengen)
+
 - [Alp] (2 nights) Zermatt, [Peak] Matterhorn (Travel + July 2 - July 4) (July 2, 3 explore)
+
+  Alpine Hotel Perren - https://www.booking.com/Share-xrPtus $495
+
 - [City] (1 night) Geneva (Side of France) / Lugano (Side of Italy) (Travel + July 4 - July 5) (July 4 explore)
+
+  Hotel Delfino Lugano - https://www.booking.com/Share-uLI8JK $167
+
+- [City] (1 night) Zurich (July 5 - July 6) (July 5 explore)
+
+  Hotel Neufeld - https://www.booking.com/Share-Rf5LHY $197
+
+  Hotel Marta - https://www.booking.com/Share-mOOQ5Y2 $221
+
+# Visa Application Rough Plan
+
+- Duration June 19 - July 6 (https://www.google.com/travel/flights/s/TfRN9EChhcatHBHr6)
+- Cities Route https://tinyurl.com/4tynwn5k
+
+- Done [City] (3 nights) Zurich + Appenzell (June 20 - June 22) (June 21 Explore) (June 22 - Checkout)
+- Done [City] (2 nights) Berne (June 22 - June 24) (June 22, 23 Explore) (June 24 Checkout)
+- Done [Alp] (4 nights) Lauterbrunnen [Peak] Jungfraujoch (Travel + June 24 - June 28) (July 24, 25, 26, 27 Explore) (June 28 Checkout)
+- Done [Alp] (2 nights) Zermatt, [Peak] Matterhorn (Travel + June 28 - June 30) (June 28, 29 explore) (June 30 checkout)
+- Done [City] (2 night) Lugano (Side of Italy) (Travel + June 30 - July 2) (June 30, July 1 Explore) (July 2 checkout)
+- Done [City] (2 nights) Lucerne (Travel + July 2 - July 4) (July 2, 3 Explore) (July 4 checkout)
+- Done [City] (2 nights) (July 4 - July 6) (June 4, 5 explore) (July 6 checkout)
 
 # Flight Options
 
@@ -64,6 +94,8 @@ https://tinyurl.com/dus8c5e2
 ## Zurich + Appenzell
 
 (June 26 - June 28) (2 nights)
+
+Hotel Neufeld - https://www.booking.com/Share-ACNuVr $393.27
 
 Hotel Scheuble - https://www.booking.com/Share-BopNB0 $709
 
